@@ -1,7 +1,4 @@
-Perfect ✅ Thanks for confirming!
-Here’s a clean, professional **README.md** for your project. You can copy-paste directly:
 
-````markdown
 # Asset Management REST API
 
 A Spring Boot based REST API for managing company assets such as laptops, keyboards, furniture, and other items.  
